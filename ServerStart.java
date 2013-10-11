@@ -16,7 +16,7 @@ public class ServerStart {
     @Autowired
     private TttConfig tttConfig1111;
     @Autowired
-    private ChannelHolder channelHolder3333;
+    private ChannelHolder channelHolder44444;
     @Autowired
     private DesignReaderFactory designReaderFactory;
     @Autowired
