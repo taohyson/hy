@@ -14,7 +14,7 @@ import ttt.scene.net.ChannelHolder;
 @Component
 public class ServerStart {
     @Autowired
-    private TttConfig tttConfig;
+    private TttConfig tttConfig1111;
     @Autowired
     private ChannelHolder channelHolder;
     @Autowired
